@@ -1,6 +1,6 @@
 functools
 unicodedata
-streamlit
+Streamlit
 pandas
 numpy
 plotly
