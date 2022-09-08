@@ -1,6 +1,4 @@
-functools
-unicodedata
-Streamlit
+streamlit
 pandas
 numpy
 plotly
